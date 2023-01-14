@@ -1876,8 +1876,12 @@ textarea.form-input::-webkit-resizer {
 
 /** Resume & button**/
 
-.resume-skills {
-    margin-bottom: 20px;
+.resume {
+    margin-bottom: 15px;
+}
+
+.resume-title {
+    padding-top: 1rem;
 }
 
 .button-33 {
