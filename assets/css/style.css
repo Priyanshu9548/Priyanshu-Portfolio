@@ -1485,6 +1485,7 @@ textarea.form-input::-webkit-resizer {
     }
     .testimonials-avatar-box img {
         width: 80px;
+        border-radius: 14px;
     }
     .testimonials-item-title {
         margin-bottom: 10px;
@@ -1532,6 +1533,9 @@ textarea.form-input::-webkit-resizer {
     }
     .clients-item {
         min-width: calc(33.33% - 35px);
+    }
+    .posted_date {
+        color: white;
     }
     /**
    * #RESUME
